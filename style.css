@@ -1,3 +1,81 @@
 .request{
-    background-color: aqua;
+    background-color: black;
+    color: aliceblue;
+    height: 40px;
+    width: 130px;
+    cursor: pointer;
+
 }
+ /* height or width mein se jo kam hai , uss value ka half krdein tou perfect rounded radius milega */
+.cart{
+    background-color: rgb(252, 216, 20);
+    font-weight: 700px;
+    font-size: medium;
+    width: 230px;
+    height: 40px;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    margin-left: 5px;
+}
+.signup{
+    background-color: rgb(46, 164, 79);
+    color: aliceblue;
+    border: none;
+    height: 40px;
+    width: 100px;
+    font-weight: 500;
+    font-size: medium;
+    border-radius: 7px;
+    cursor: pointer;
+
+}
+.start{
+    margin-top: 20px;
+    background-color: rgb(121, 82, 179);
+    border: none;
+    color: whitesmoke;
+    height: 40px;
+    width: 130px;
+    border-radius: 5px;
+    font-weight: 700;
+    cursor: pointer;
+
+}
+.download{
+    
+    background-color: white;
+    height: 40px ;
+    width: 130px;
+    border-width: 1px;
+    border-radius: 5px;
+    border-color: rgb(108, 117, 125);
+    font-weight:  700;
+    color: grey;
+    cursor: pointer;
+}
+.apply{
+    margin-top: 20px;
+    background-color:rgb(10, 102, 194) ;
+    height: 40px;
+    width: 280px;
+    color: white;
+    font-size: 16px;
+    font-weight: 700;
+    border: none;
+    border-radius:20px ;
+    cursor: pointer;
+}
+.save{
+    background-color: white;
+    border-width: 1px;
+    width: 80px;
+    height: 40px;
+    border-radius: 20px;
+    border-color:rgb(10, 102, 194)  ;
+    color: rgb(10, 102, 194) ;
+    font-size: 16px;
+    font-weight: 700;
+    cursor: pointer;
+}
+
