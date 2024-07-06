@@ -10,6 +10,9 @@
 .request:hover {
     opacity:0.8;
 }
+.request:active {
+    background-color: rgb(191, 230, 54);
+}
  /* height or width mein se jo kam hai , uss value ka half krdein tou perfect rounded radius milega */
 .cart{
     background-color: rgb(252, 216, 20);
