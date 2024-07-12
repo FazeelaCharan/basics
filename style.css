@@ -1,3 +1,8 @@
+body{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
 .request{
     background-color: black;
     color: aliceblue;
@@ -168,4 +173,122 @@ box-shadow: none;
 .large:hover{
     padding-left: 25px;
     padding-right: 25px;
+}
+.tohoma{
+    font-family: Tahoma;
+    font-weight: 900;
+    font-size: 28px;
+}
+.deal{
+    font-family: Arial;
+    font-size: 32px;
+    font-weight: 900;
+    margin-bottom: 0;
+    line-height: 42px;
+    
+}
+.sale{
+   font-size: 22px; 
+   color: rgb(168, 6, 6);
+   margin-top: 0;
+   line-height: 1;
+}
+.title{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 900;
+    font-size: 22px;
+    margin-bottom: 0;
+}
+.subtitle{
+    color: gray;
+    margin-top: 0;
+    
+}
+.para{
+    width: 300px;
+}
+.work{
+    margin-left: 130px;
+    font-weight: 500;
+}
+.link{
+    margin-left: 190px;
+    text-decoration: none;
+    color: rgb(68, 102, 213);
+font-weight: 500;
+}
+.macbook{
+    width: 500px;
+    text-align: center;
+}
+.pro{
+    margin: 0;
+    padding: 0;
+    line-height: 2;
+
+}
+.first{
+    font-weight: bolder;
+    line-height: 1;
+}
+.second{
+    font-weight: bolder;
+    font-size: 28px;
+    line-height: 1;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    letter-spacing: normal;
+}
+
+.third{
+    font-size: 14px;
+    font-weight: 500;
+    color: black;
+}
+p{
+    margin:0;
+    font-family: Arial, Helvetica, sans-serif;
+
+
+}
+.rs{
+    font-size: 32px;
+    font-weight: 500;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+.usd{
+    font-size: 22px;
+    color: gray;
+    font-weight: 400;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.today{
+    font-size: 22px;
+ color: green;
+    font-weight: 400;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+.hour{
+font-size: 22px;
+font-family: Arial, Helvetica, sans-serif;
+}
+.hourclr{
+    color: brown;
+    font-family: Arial, Helvetica, sans-serif;
+} 
+.free{
+    font-weight: 600;
+
+}
+.freecode{
+    color: gray;
+    font-weight: 300;
+}
+.chp{
+    color: rgb(0, 174, 255);
+   
+}
+.lastpara{
+    margin-top: 20px;
 }
